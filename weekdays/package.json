@@ -7,6 +7,14 @@
   },
   "dependencies": {
     "moment": "^2.11.2",
+    "node-fetch": "^1.4.1",
+    "node-int64": "^0.4.0",
+    "node-pre-gyp": "^0.6.24",
     "react-native": "^0.19.0"
-  }
+  },
+  "main": "day-item.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }

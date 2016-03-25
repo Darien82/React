@@ -9,7 +9,7 @@ var Moment = require('moment'),
 
 
 //Create a React component
-var weekdays = React.createClass({
+var Weekdays = React.createClass({
   render: function () {
     return <View style={styles.container}>
       {this.days()}
